@@ -1,0 +1,14 @@
+.list-ele {
+  font-size: 19px;
+  color: #ffff;
+}
+.isSelect {
+  font-size: 19px;
+  color: #fec653;
+  border-bottom: 1px solid #fec653;
+}
+.category-btn {
+  background-color: transparent;
+  border: transparent;
+  outline: none;
+}
